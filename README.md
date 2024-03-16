@@ -1,7 +1,10 @@
 <h1>Hi 👋, I'm Pushpak Pandharpatte</h1>
 <p>I am a programmer, passionate about innovation and problem-solving.</p>
 
-<img align="right" alt="coding" src="https://tenor.com/view/lion-king-lion-king-walk-walking-gif-13295043">
+<img align="right" alt="coding" >
+<div class="tenor-gif-embed" data-postid="13295043" data-share-method="host" data-aspect-ratio="1.33" data-width="100%"><a href="https://tenor.com/view/lion-king-lion-king-walk-walking-gif-13295043">Lion King Sticker</a>from <a href="https://tenor.com/search/lion-stickers">Lion Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
+
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
