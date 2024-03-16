@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Pushpak Pandharpatte</h1>
 <p>I am a programmer, passionate about innovation and problem-solving.</p>
 
-<img align="right" alt="coding" width="400" src="https://giffiles.alphacoders.com/363/36302.gif">
+<img align="right" alt="coding" src="https://tenor.com/view/lion-king-lion-king-walk-walking-gif-13295043">
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
