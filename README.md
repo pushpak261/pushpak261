@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Pushpak Pandharpatte</h1>
 <p>I am a programmer, passionate about innovation and problem-solving.</p>
 
-<img align="right" alt="coding" height="200" width="200" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif" >
+<img align="right" alt="coding" height="170" width="200" src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif" >
 
 
 <h2>🚀 Languages and Tools I Use</h2>
