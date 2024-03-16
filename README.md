@@ -1,4 +1,4 @@
-<h1>Hi 👩‍💻, I'm Pushpak Pandharpatte</h1>
+<h1>Hi 👨‍💻, I'm Pushpak Pandharpatte</h1>
 <p>I am a programmer, passionate about innovation and problem-solving.</p>
 
 <img align="right" alt="coding" height="30" width="30"  src="https://i.pinimg.com/originals/15/22/dd/1522ddece6c1e3ab7ee15871255d3ec8.gif" >
