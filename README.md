@@ -47,7 +47,7 @@
 </a>
 </p>
 
-<h2>📽️ Project Demo</h2>
+<h2>📽️ Sports Club</h2>
 <p>
 <img src="https://raw.githubusercontent.com/pushpak261/pushpak261/main/projvideo2_hq.gif" alt="Project Demo" width="100%">
 </p>
