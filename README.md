@@ -2,7 +2,7 @@
 
 # Hi, I'm Pushpak Pandharpatte! 
 
-🚀 **Full Stack Developer | Java | React.js | MERN Stack | AWS**  
+  **Full Stack Developer | Java | React.js | MERN Stack | AWS**  
 💡 Passionate about building **scalable web applications**, contributing to **open source**, and **exploring new technologies.**
 
 ---
