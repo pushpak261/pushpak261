@@ -45,11 +45,6 @@
 
 🔗 **[GitHub Repo](https://github.com/pushpak261/sports-club-system)**
 
-### **Likee Kofiee** | *MERN Stack, Redux, Bootstrap*
-☕ An online **coffee ordering system** with authentication & order tracking.
-
-🔗 **[GitHub Repo](https://github.com/pushpak261/likee-kofiee)**
-
 ---
 
 ## 📊 GitHub Stats
