@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Pushpak Pandharpatte! 👋
 
 🚀 **Full Stack Developer | Java | React.js | MERN Stack | AWS**  
@@ -72,10 +74,4 @@
 
 ---
 
-## 🌟 Show Your Support!
-
 ⭐ **If you like my work, consider giving a star!** 🚀
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pushpak261.pushpak261)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pushpak261&theme=tokyonight)
