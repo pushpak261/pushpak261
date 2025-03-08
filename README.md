@@ -43,8 +43,6 @@
 ### **Sports Club System** | *React.js, Spring Boot, MySQL, AWS*
 🛍️ Full-stack **sports eCommerce system** with secure payments & order management.
 
-🔗 **[GitHub Repo](https://github.com/pushpak261/sports-club-system)**
-
 ---
 
 ## 📊 GitHub Stats
